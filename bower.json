@@ -1,0 +1,26 @@
+{
+  "name": "GaLand",
+  "version": "1.0.0",
+  "homepage": "https://github.com/MJafarMashhadi/Galand",
+  "authors": [
+    "MJafar Mashhadi <raindigital2007@gmail.com>"
+  ],
+  "description": "Galand website",
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Ga",
+    "GaLand",
+    "GyLand"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
