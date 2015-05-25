@@ -1,0 +1,6 @@
+{
+  "name":"gyland",
+  "scripts":{},
+  "env": {"NODE_ENV": "production"},
+  "addons":[]
+}
